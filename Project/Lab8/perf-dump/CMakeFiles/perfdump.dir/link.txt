@@ -1,0 +1,2 @@
+/opt/gnu/bin/ar qc libperfdump.a  CMakeFiles/perfdump.dir/perf_dump.C.o CMakeFiles/perfdump.dir/papi_utils.C.o
+/opt/gnu/bin/ranlib libperfdump.a

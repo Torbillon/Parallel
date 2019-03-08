@@ -1,0 +1,8 @@
+to compile:
+./script_make.sh
+
+to run:
+./run.sh
+
+
+Make sure to edit run.sh when changing number of processes on layer 1 (process_file.txt), and change number of lines parameter when files are added to file_names.txt
