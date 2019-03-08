@@ -1,2 +1,0 @@
-/opt/gnu/bin/ar qc libperfdump-pmpi.a  CMakeFiles/perfdump-pmpi.dir/perf_dump.C.o CMakeFiles/perfdump-pmpi.dir/papi_utils.C.o
-/opt/gnu/bin/ranlib libperfdump-pmpi.a

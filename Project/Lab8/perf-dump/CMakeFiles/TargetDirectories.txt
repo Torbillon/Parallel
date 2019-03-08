@@ -1,9 +1,0 @@
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/install/strip.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/install/local.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/install.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/list_install_components.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/edit_cache.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/perfdump-pmpi.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/rebuild_cache.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/test-perf-dump.dir
-/home/tislam/Tools/perf-dump-perThread/BUILD-comet/CMakeFiles/perfdump.dir
