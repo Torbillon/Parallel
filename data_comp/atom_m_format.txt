@@ -1,0 +1,1 @@
+first_line_number second_line_number atom_max_x atom_min_x atom_max_y atom_min_y atom_max_z atom_min_z
